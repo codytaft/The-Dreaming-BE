@@ -13,7 +13,7 @@ module.exports = {
       directory: './migrations'
     },
     seeds: {
-      director: '/seeds'
+      directory: '/seeds'
     }
   }
 

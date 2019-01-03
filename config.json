@@ -1,0 +1,10 @@
+{
+  "clientId": "hiEsVW0ez3-afuRuemSwdw==",
+  "clientKey": "CQ-g7qnvhmSDZEKzUDQjvHVIKraA5sLI-w9yvwPTq3v7dBJ_ree5nPW-FaqAtuirQcnOG4iobk8ojeh66LADsA==",
+
+  "port": 3010,
+
+  "https": true,
+  "sslKeyFile": "server.key",
+  "sslCrtFile": "server.crt"
+}
